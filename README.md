@@ -1,6 +1,8 @@
 # Dimthrandir's build of dmenu
+
 My modified build of [suckless](https://suckless.org/)' [dmenu](https://tools.suckless.org/dmenu/).
-Built on v5.3.
+
+Built on version 5.3.
 
 ## Features
 
@@ -32,15 +34,19 @@ The minimal width of dmenu when centered can be set with `-mw`.
 
 ### [highlight](https://tools.suckless.org/dmenu/patches/highlight/) patch
 
-[dmenu-highlight-20201211-fcdc159.diff](https://tools.suckless.org/dmenu/patches/highlight/dmenu-highlight-20201211-fcdc159.diff)
+version [dmenu-highlight-20201211-fcdc159.diff](https://tools.suckless.org/dmenu/patches/highlight/dmenu-highlight-20201211-fcdc159.diff)
 
 Highlight colors can be set with options  `-nhg` `-nhb` `-shf` `-shb`.
 
 ### [numbers](https://tools.suckless.org/dmenu/patches/numbers/) patch
 
-[dmenu-numbers-20220512-28fb3e2.diff](https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-20220512-28fb3e2.diff)
+version [dmenu-numbers-20220512-28fb3e2.diff](https://tools.suckless.org/dmenu/patches/numbers/dmenu-numbers-20220512-28fb3e2.diff)
 
 Numbers can be enabled with option `-n`.
+
+### Usage instructions
+
+`man`, `help` and `usage` are updated with the new options.
 
 ## Requirements
 
