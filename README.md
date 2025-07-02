@@ -36,7 +36,7 @@ The minimal width of dmenu when centered can be set with `-mw`.
 
 version [dmenu-highlight-20201211-fcdc159.diff](https://tools.suckless.org/dmenu/patches/highlight/dmenu-highlight-20201211-fcdc159.diff)
 
-Highlight colors can be set with options  `-nhg` `-nhb` `-shf` `-shb`.
+Highlight colors can be set with options  `-nhf` `-nhb` `-shf` `-shb`.
 
 ### [numbers](https://tools.suckless.org/dmenu/patches/numbers/) patch
 
