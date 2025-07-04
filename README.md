@@ -14,7 +14,7 @@ This font and its features can be changed with option `-fne`.
 
 ### Full item width
 
-When dmenu lists item vertically with a given prompt, items can optionaly fill the whole width of dmenu with `-t`.
+When dmenu lists item vertically with a given prompt, items can optionally fill the whole width of dmenu with `-t`.
 
 ### [border](https://tools.suckless.org/dmenu/patches/border/) patch
 
