@@ -14,7 +14,7 @@ This font and its features can be changed with option `-fne`.
 
 ### Full item width
 
-When dmenu lists item vertically with a given prompt, items can fill the whole width of dmenu with option `-t`.
+When dmenu lists item vertically with a given prompt, items can optionaly fill the whole width of dmenu with `-t`.
 
 ### [border](https://tools.suckless.org/dmenu/patches/border/) patch
 
@@ -26,9 +26,9 @@ Applied as is.
 
 version [dmenu-center-20250407-b1e217b.diff](https://tools.suckless.org/dmenu/patches/center/dmenu-center-20250407-b1e217b.diff)
 
-Running on top of screen is made to be the default.
+Appear at the top of screen by default.
 
-dmenu is centered vertically too when `-c` is used.
+dmenu is centered vertically only when `-c` is used.
 
 The minimal width of dmenu when centered can be set with `-mw`.
 
